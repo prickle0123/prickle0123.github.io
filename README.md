@@ -1,2 +1,5 @@
-# prickle0123.github.io
-Art 74 Website Demo by Kevin 
+# Kevin Nguyen
+
+### I am an artist. This is my portfolio site.
+
+This is a *README* file for my repository. It is written using **Markdown**.
